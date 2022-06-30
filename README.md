@@ -1,3 +1,3 @@
-# Digital Innovation One
+# Digital Innovation One Projeto
 
-### Trilha Kotlin
+### [Bootcamp Mobile DIO](https://github.com/thaisperlho/bootcamp-mobile-dio)
