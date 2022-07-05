@@ -29,8 +29,4 @@ fun main() {
     println("------------")
     funcionarioSet.remove(ana)
     funcionarioSet.forEach { println(it) }
-
-
-
-
 }
